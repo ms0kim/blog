@@ -42,18 +42,18 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <kim> <minsong>
+  email:               <ms0kim@naver.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             javascript
     url:               /example/
-  - title:             Documentation
+  - title:             publishing
     url:               /docs/
-  - title:             About
+  - title:             python
     url:               /about/
 
 # Add links to the footer.
